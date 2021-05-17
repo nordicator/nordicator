@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nordicator
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning servers
-- 💞️ I’m looking to collaborate on minecraft servers
+- 👀 I’m interested in gaming and servers and coding minecraft clients
+- 🌱 I’m currently learning servers and java
+- 💞️ I’m looking to collaborate on minecraft servers and java
 - 📫 How to reach me discord nord#8546
 
 <!---
